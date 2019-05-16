@@ -71,3 +71,6 @@ In your component class define and assign the values to *mapConfig*, where *mapC
           moreOptions: ["Change input color", "Custom option1", "Custom option2"]
         }
         
+## Demo
+
+Please find the demo link i.e `https://angular-locate-on-map-1-1umiuq.stackblitz.io/`.
