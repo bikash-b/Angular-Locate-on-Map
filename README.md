@@ -1,4 +1,4 @@
-# Angular-Locate-on-Map
+# Angular Locate on Map
 ![alt text](https://github.com/bikash-b/Angular-Locate-on-Map/blob/master/locate-on-map.png)
 
 Angular loate on map or "locate-on-map" is the component to display the Google map with a search box where user can search any place and locate the place on the map.
