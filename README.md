@@ -23,19 +23,19 @@ Now you are ready to use the component. In any of your component template just c
 
 | Attribute name| Description   | Value |
 | ------------- |:-------------:| -----:|
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
-| markerHeight      | right-aligned | $1600 |
+| markerHeight      | To change the marker height. It accepts number. | Positive number e.g 20, 30, 50 |
+| markerWidth      | To change the marker height. It accepts number. | Positive number e.g 20, 30, 50 |
+| markerIcon      | To change the default marker icon. It accepts string which holds the image URL. | Image URL e.g *http://localhost:4200/assets/marker.png* |
+| moreOptions      | To provide the additional features in the apps icon on the search box. It accepts array of strings | Array of strings e.g ["Change input color", "Get place info"] |
+| defaultPosition      | To provide the default position to the map. It accepts MapPosition. | MapPosition e.g lattitude, longitude, zoom |
+| displayInfoWindow      | To display the Information Window on click on the marker. It is a boolean. | Boolean e.g true or false |
+| displayMoreOption      | To display the More Option on the Search box. It is a boolean. | Boolean e.g true or false |
+| infoWindowHeaderAlign      | To provide the allignment to the default InfoWindow header. It accepts string. | String e.g 'left' or 'center' or 'right'|
+| displayAddressOnInfoWindow      | right-aligned | $1600 |
+| displayOpenHoursOnInfoWindow      | right-aligned | $1600 |
+| displayRatingsOnInfoWindow      | right-aligned | $1600 |
+| displayReviewOnInfoWindow      | right-aligned | $1600 |
+| displayContactOnInfoWIndow      | right-aligned | $1600 |
+| isInfoWindowCustomizable      | right-aligned | $1600 |
+| isMoreOptionCustomizable      | right-aligned | $1600 |
 
