@@ -1,26 +1,3 @@
-<!-- <div *ngIf="!mapLoadingError" class='map-wrapper'>
-    <div id='map-canvas2'>
-        <div id="map" #map></div>
-    </div>
-    <div id='over'>
-        <div>
-            <input class="auto-complete" type="text" #mapAutoCompleteSerch>
-        </div>
-    </div>
-    <div id="over_2" *ngIf="photos && photos.length > 0">
-        <div class="photo-gallery">
-            <div *ngFor="let photo of photos" class="photo-cover" (click)="navigateToImageDetail(photo.map)">
-                <img height="200px" width="300px" [attr.src]="photo.image">
-            </div>
-        </div>
-    </div>
-</div> -->
-<!-- <div *ngIf="mapLoadingError">
-    <div>Error Occurred: Please check below</div>
-    <ul>
-        <li *ngFor="let error of mapLoadingError"> {{ error }} </li>
-    </ul>
-</div> -->
 <div class='map-wrapper' #parentComponent>
     <form style="background: #fff;box-shadow: 0 2px 3px rgba(0,0,0,.16);height: 48px;display: flex;justify-content: space-between;">
         <div style="top: 15px;position: relative;padding-left: 10px;width: 100%;">
