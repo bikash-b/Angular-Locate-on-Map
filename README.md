@@ -23,7 +23,19 @@ Now you are ready to use the component. In any of your component template just c
 
 | Attribute name| Description   | Value |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
+| markerHeight      | right-aligned | $1600 |
 
