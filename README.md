@@ -73,4 +73,4 @@ In your component class define and assign the values to *mapConfig*, where *mapC
         
 ## Demo
 
-Please find the demo link i.e `https://angular-locate-on-map-1-1umiuq.stackblitz.io/`.
+Please find the demo link i.e [https://angular-locate-on-map-1-1umiuq.stackblitz.io/](https://angular-locate-on-map-1-1umiuq.stackblitz.io/).
